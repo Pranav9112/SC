@@ -2,8 +2,8 @@ matplotlib
 seaborn
 numpy
 streamlit
-panda
-PIL
+pandas
+Pillow
 io
 base64
 lightkurve
